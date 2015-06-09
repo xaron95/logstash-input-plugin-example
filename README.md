@@ -1,0 +1,1 @@
+# logstash-input-plugin-example
